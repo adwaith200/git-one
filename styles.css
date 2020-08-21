@@ -3,5 +3,5 @@ body{
     margin:20px;
     padding:30px;
     color:white;
-    transform:translate(10px);
+    display: block;
 }
