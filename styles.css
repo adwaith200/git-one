@@ -1,7 +1,11 @@
 body{
     background-color: red;
+<<<<<<< HEAD
     margin:20px;
     padding:30px;
     color:white;
     display: block;
+=======
+    cursor: pointer;
+>>>>>>> feature-a
 }
