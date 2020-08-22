@@ -1,6 +1,7 @@
 body{
     background-color: red;
 <<<<<<< HEAD
+<<<<<<< HEAD
     margin:20px;
     padding:30px;
     color:white;
@@ -8,4 +9,7 @@ body{
 =======
     cursor: pointer;
 >>>>>>> feature-a
+=======
+    box-shadow: 10px 10px 2px black;
+>>>>>>> feature-b
 }
